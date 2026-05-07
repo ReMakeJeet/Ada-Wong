@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import font
 #4. style the output produced by gemma which is in text form(string) take it and change fonts, animate, colors etc RGB-kind of gaems feel if possible use resident evil stle!
 def style():
-    styled_font = font.Font(family="Arial", size=30, weight="bold")
+    styled_font = font.Font(family="Arial", size=300, weight="bold")
     return styled_font
     pass
 
