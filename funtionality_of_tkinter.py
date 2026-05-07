@@ -1,5 +1,10 @@
 from tkinter import *
 from tkinter import font
+# comment this should be merged or pushed or added into the main branch of my account remakejeet in the repo ada-wong which
+# is restricted as i have branch protection rules there so no one from another acount cantmerege directly they will need a pr!!!
+# but this commit will work as i am goign to delted the newly reateed account now and then push from that accout as i found this 
+# as a vulnurablity in github.... that a delted account but loged in via gh can push to a restricetd env and they show no error 
+# andd let them do the bypass!!
 #4. style the output produced by gemma which is in text form(string) take it and change fonts, animate, colors etc RGB-kind of gaems feel if possible use resident evil stle!
 def style():
     styled_font = font.Font(family="Arial", size=300, weight="bold")
